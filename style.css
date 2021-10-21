@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  background-image: linear-gradient(120deg, #f6d365 50%, #fda085 50%), #ffffff url("img_tree.png") no-repeat right top;
-  color: white;
+  background-image: /*linear-gradient(120deg, #f6d365 50%, #fda085 50%),*/ #ffffff url("img_tree.png") no-repeat right top;
+  color: black;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
 }
