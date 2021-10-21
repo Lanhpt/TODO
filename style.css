@@ -25,7 +25,7 @@ form button {
   padding: 0.5rem;
   font-size: 2rem;
   border: none;
-  background: white;
+  background: black;
 }
 form button {
   color: #DAA520;
@@ -35,7 +35,7 @@ form button {
 }
 form button:hover {
   background: #DAA520;
-  color: white;
+  color: black;
 }
 .todo-container {
   display: flex;
