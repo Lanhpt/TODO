@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  background-image: /*linear-gradient(120deg, #f6d365 0%, #fda085 100%)*/ Khaki;
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
@@ -50,7 +50,7 @@ form button:hover {
 
 .todo {
   margin: 0.5rem;
-  background: yellow;
+  background:LightGoldenRodYellow;
   font-size: 1.5rem;
   color: black;
   display: flex;
